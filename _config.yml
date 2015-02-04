@@ -1,0 +1,7 @@
+safe:        false
+baseurl:     /
+source:      .
+destination: ./_site
+future:      true
+markdown:    Kramdown
+permalink:   date
