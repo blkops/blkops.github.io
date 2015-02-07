@@ -11,7 +11,7 @@ Any Black individual who is passionate about the #BlackLivesMatter movement and 
 
 **How do I get involved?**
 
-Blkops is very open to having new members join us. If you would like to get involved with us, please first take a look our projects [here](https://github.com/blkops) and see what you might want to help work on. After looking it over, select a repo and please create an [issue](https://guides.github.com/features/issues/) detailing who you are and what you'd like to do! If you don't have a GitHub account, you can still contribute! Just contact us here [insert link to contact page] and give us an idea of what you're interested in and would like to work on. 
+Blkops is very open to having new members join us. If you would like to get involved with us, please first take a look our projects [here](https://github.com/blkops) and see what you might want to help work on. After looking it over, select a repo and please create an [issue](https://guides.github.com/features/issues/) detailing who you are and what you'd like to do! If you don't have a GitHub account, you can still contribute! Just contact us here *[insert link to contact page]* and give us an idea of what you're interested in and would like to work on. 
 
 **What is Blkops working on now?**
 
@@ -19,7 +19,7 @@ If you'd like to see the progress of Blkops' current project(s), feel free to ch
 
 **I have some feedback for a tool, who do I contact?**
 
-Great! Contact us here [insert link to contact page] to give us feedback or request new features. 
+Great! Contact us here *[insert link to contact page]* to give us feedback or request new features. 
 
 **Can I follow Blkops on Twitter?**
 
