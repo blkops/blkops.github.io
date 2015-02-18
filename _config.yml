@@ -1,0 +1,7 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+baseurl:     /
+destination: ./_site
